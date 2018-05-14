@@ -19,7 +19,7 @@ This photo shows the function that is used when the customer choses 1 (or ENTERT
 **5_bamazonquery_entertainment_results.png**
 This photo shows the entertainmentfunction in action. 
 First, it displays a list of the items that are in the entertainment department. 
-Then, The customer is prompted to answer which movie they would like. Once the customer enters which movie they want to see, it displays the movie they want, they price and quantity in stock.
+Then, The customer is prompted to answer which movie they would like. Once the customer enters which movie they want to see, it displays the movie they want, the price and quantity in stock.
 Finally, when the customer answers which they movie they would like, they are asked how many they would like.
 
 **6_bamazon_query_entertainment_PART2_and_results.png**
