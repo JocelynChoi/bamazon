@@ -1,0 +1,24 @@
+{
+  "name": "great-bay-basic",
+  "version": "1.0.0",
+  "description": "activity for demonstrating inquirer with mysql",
+  "main": "greatBayBasic.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "a"
+  },
+  "author": "jocelyn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "a"
+  ]
+}
