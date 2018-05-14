@@ -1,5 +1,13 @@
 # bamazon
 
+This application asked customers to choose between three departments in the store: ENTERTAINMENT, ELECTRONICS, OR FOOD.
+1. When they choose one of the categories, they see all the items from that department. 
+2. They are prompted to choose one item from that department.
+3. They are then asked how many they would like.
+4. Finally, they are told their item is on its way.
+
+Here is a description for each photo on this repository:
+
 **1_bamazon_connect.png**
 This first photo shows that mysql and inquirer are needed for this application to work.
 A connection to a mysql server is also necessary to import data. In this case, the data is located in bamazonseed.sql.
