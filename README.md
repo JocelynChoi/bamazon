@@ -1,10 +1,12 @@
 # bamazon
 
-This application asked customers to choose between three departments in the store: ENTERTAINMENT, ELECTRONICS, OR FOOD.
-1. When they choose one of the categories, they see all the items from that department. 
-2. They are prompted to choose one item from that department.
-3. They are then asked how many they would like.
-4. Finally, they are told their item is on its way.
+WELCOME TO BAMAZON!
+
+1. This application asked customers to choose between three departments in the store: ENTERTAINMENT, ELECTRONICS, OR FOOD.
+2. When they choose one of the categories, they see all the items from that department. 
+3. They are prompted to choose one item from that department.
+4. They are then asked how many they would like.
+5. Finally, they are told their item is on its way.
 
 Here is a description for each photo on this repository:
 
